@@ -1,0 +1,19 @@
+Trong cuộc đua tốc độ có n Robot tham gia được đánh số từ 1 đến n. Đường đua có độ dài d (mét). Robot thứ i có vận tốc đua không đổi là v[i] (mét / phút). 
+Các Robot xuất phát theo thứ tự từ 1 đến n và cách nhau 1 phút. Robot thứ i được gọi là vượt qua Robot thứ j nếu i xuất phát sau j và về đích trước j.
+Yêu cầu: Xác định số lần vượt nhau của tất cả các Robot trong cuộc đua.
+INPUT:
+- Dòng đầu chứa 2 số nguyên dương n và d (n <= 10^3, d <= 10^ 9)
+- Dòng tiếp theo chứa n số nguyên dương v[i], mỗi số không vượt quá 1000.
+OUTPUT:
+Ghi ra số lần vượt nhau của tất cả các Robot trong cuộc đua.
+Ví dụ:
+
+INPUT:
+5 10
+1 2 4 3 8
+
+OUTPUT:
+7
+
+Giải thích:
+Robot 2 vượt Robot 1, Robot 3 vượt Robot 1 và 2, Robot 4 vượt Robot 1, Robot 5 vượt Robot 1 và 2 và 4.

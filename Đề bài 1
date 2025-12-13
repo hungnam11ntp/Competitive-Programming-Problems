@@ -1,6 +1,0 @@
-Cho bốn số nguyên dương a, b, c, d, mỗi số có giá trị không vượt quá 10^5. Tìm hai số nguyên x, y để phân số x/y tối giản và bằng hiệu của 2 phân số a/b - c/d, trong đó y > 0.
-INPUT:
-1 6
-5 12
-OUTPUT:
--1 4
