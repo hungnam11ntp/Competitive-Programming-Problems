@@ -1,0 +1,17 @@
+Tìm K chữ số cuối cùng của M^N.
+INPUT:
+Một dòng duy nhất chứa 3 số tự nhiên M, N, K (0 < K <= 9; 0 <= N <= 10^6)
+OUTPUT:
+Ghi ra K chữ số cuối cùng. Trong trường hợp M^N không đủ K chữ số, thêm vào các số 0 vào đầu kết quả để độ dài chuỗi kết quả là K.
+
+Ví dụ 1:
+INPUT:
+3 5 2
+OUTPUT:
+43
+
+Ví dụ 2:
+INPUT:
+10 4 3
+OUTPUT:
+000
