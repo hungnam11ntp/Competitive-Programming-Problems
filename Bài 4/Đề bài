@@ -1,0 +1,17 @@
+Cho phương trình hai ẩn x, y: ax + by = c, với a, b, c là các số nguyên dương nhỏ hơn 10^5.
+Yêu cầu: Hãy đếm số nghiệm {x, y} của phương trình đã cho thỏa mãn: x, y là các số nguyên dương
+và nguyên tố cùng nhau (hai số nguyên dương được gọi là nguyên tố cùng nhau nếu ước chung lớn
+nhất của chúng bằng 1).
+
+INPUT:
+Một dòng duy nhất chứa ba số a, b, c mỗi số cách nhau một dấu cách.
+OUTPUT:
+Số lượng nghiệm {x, y} thỏa mãn yêu cầu trên.
+
+Ví dụ:
+INPUT:
+1 2 10
+OUTPUT:
+2
+Giải thích:
+Phương trình gồm các nghiệm thỏa mãn là {4, 3}, {8, 1}
