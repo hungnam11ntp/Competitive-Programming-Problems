@@ -1,0 +1,12 @@
+Cho hai số nguyên dương a, b trong hệ bát phân. Hãy viết chương trình tính tổng 2 số này, kết quả là một số trong hệ bát phân.
+INPUT:
+Gồm 2 dòng, dòng đầu chứa số a, dòng thứ hai chứa số b, độ dài của mỗi số không quá 100 chữ số.
+OUTPUT:
+Một dòng duy nhất chứa tổng của 2 số a và b.
+
+Ví dụ: 
+INPUT:
+3642
+74521
+OUTPUT:
+100363
