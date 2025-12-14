@@ -1,0 +1,12 @@
+Cho xâu S tối đa 200 ký tự biểu diễn một số trong hệ đếm nhị phân. Hãy đổi S từ hệ đếm nhị phân sang hệ đếm cơ số 8.
+INPUT:
+Một dòng duy nhất chứa xâu S.
+OUTPUT:
+Một dòng duy nhất chứa số trong hệ đếm cơ số 8 đã đổi được.
+
+Ví dụ:
+INPUT: 
+110101001001
+
+OUTPUT:
+6511
